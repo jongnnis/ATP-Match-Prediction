@@ -3,7 +3,7 @@ ATP 데이터셋을 이용한 승자 예측 머신러닝
 
 ---
 ## ATP Tennis 데이터셋
-- [ATP Dataset csv 다운로드](ATP Dataset_2012-01_to_2017-07_Int_V4.csv)
+- [ATP Dataset csv 다운로드](https://raw.githubusercontent.com/your_username/your_repository/master/ATP%20Dataset_2012-01_to_2017-07_Int_V4.csv)
 
 - 컬럼 종류
   * ATP	: 년도별 대회순서
